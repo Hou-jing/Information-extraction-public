@@ -11,3 +11,5 @@ Bert_NER
 
 
 6/27日补充Conll03的命名实体识别基础模型。包括bert-crf和cnn-lstm-crf两种模型，使用工具包fastnlp
+
+8/30日 补充NER相关数据集。
