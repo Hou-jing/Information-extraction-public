@@ -1,0 +1,15 @@
+液	B-Y
+氧	I-Y
+煤	I-Y
+油	I-Y
+发	I-Y
+动	I-Y
+机	I-Y
+用	O
+煤	B-Z
+油	I-Z
+使	I-Z
+用	I-Z
+规	I-Z
+定	I-Z
+.	O
