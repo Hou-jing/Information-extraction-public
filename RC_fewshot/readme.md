@@ -1,0 +1,9 @@
+dataset中存放了用于关系分类任务的数据集。
+
+deep_ke_standard:是deepke团队的代码
+
+finetune:是使用finetune方式完成关系分类任务,具体可见模型
+
+fused_chunk_information for RE 是将chunk信息和原句信息同时作为分类的保障，最后的logits考虑chunk和原句的概率。（出发点是：chunk构成的句子和原句产生的分类信息应该是一样的）
+
+finetune_prop:使用原型信息分类，原型信息可以使用temp文件中的句子得到，也可以使用对应的数据集中相同关系类型的句子得到。
